@@ -11,7 +11,7 @@ body {
 }
 
 body.index-page {
-    background-image: url('img/indexbackground.jpg');
+    background-image: url('../img/indexbackground.JPG');
     background-size: contain;
     background-position: center;
     background-attachment: fixed;
@@ -296,3 +296,4 @@ p {
     background-color: #5C2D2D;
 
 }
+
