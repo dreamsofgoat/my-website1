@@ -11,7 +11,7 @@ body {
 }
 
 body.index-page {
-    background-image: url('../img/indexbackground.jpg');
+    background-image: url('img/indexbackground.jpg');
     background-size: contain;
     background-position: center;
     background-attachment: fixed;
@@ -294,4 +294,5 @@ p {
 
 .contact-form button:hover {
     background-color: #5C2D2D;
+
 }
